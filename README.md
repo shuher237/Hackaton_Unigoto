@@ -10,10 +10,8 @@ Students: Aflatunov Emil, Shukhardin Alexandr, Guyfullin Alexandr
 1. [Project description](#project-description)
 2. [Which case is being solved](#which-case-is-being-solved)
 3. [Task conditions](#task-conditions)
-4. [Quality metrics](#quality-metrics)
-5. [What is being practiced](#what-is-being-practiced)
-6. [Project stages](#project-stages)
-7. [Results](#results)  
+4. [Project stages](#project-stages)
+5. [Results](#results)  
 
 ### **Project description**
    Implementation of a recommendation system based on data provided by the customer, capable of providing relevant recommendations to users based on feedback received from them on certain personal parameters (hobbies, interests, favorite books, etc.).
